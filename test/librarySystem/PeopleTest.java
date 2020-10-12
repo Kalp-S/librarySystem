@@ -3,8 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package finalassignmnet;
+package librarySystem;
 
+import librarySystem.Book;
+import librarySystem.Student;
+import librarySystem.People;
 import java.util.ArrayList;
 import org.junit.After;
 import org.junit.AfterClass;

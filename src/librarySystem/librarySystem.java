@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package finalassignmnet;
+package librarySystem;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class FinalAssignmnet {
+public class librarySystem {
 
     /**
      * @param args the command line arguments

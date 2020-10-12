@@ -1,1 +1,1 @@
-simple library system.
+simple library system built using Java. Testing accomplished using Junit. To run, install apache netbeans, Java SE Development Kit 8+ then run "librarySystem.java".
